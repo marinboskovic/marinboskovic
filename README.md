@@ -4,8 +4,7 @@
 
 **Junior Data Analyst @ Gideon · MSc Data Science @ FER, Zagreb**
 
-I like figuring out why things break, then building what fixes them.<br>
-Curious by default, stubborn about the details.
+I like building stuff and solving problems. Easygoing by nature, relentless by choice.
 
 <a href="https://www.linkedin.com/in/marinboskovic"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 

@@ -15,7 +15,7 @@ I like building stuff and solving problems. Easygoing by nature, relentless by c
 ### Currently
 
 - Building an agentic LLM system for error triage at Gideon (RAG, structured outputs, multimodal inputs)
-- Studying machine learning and multivariate data analysis at FER
+- Studying courses such as: Machine Learning, Introduction to Data Science, Multivariate Data Analysis etc.
 
 ### Featured projects
 

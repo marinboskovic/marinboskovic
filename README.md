@@ -22,7 +22,7 @@ I like building stuff and solving problems. Easygoing by nature, relentless by c
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/sarmyca/ELOquence">ELOquence</a></h4>
+      <h4><a href="https://github.com/marinboskovic/ELOquence">ELOquence</a></h4>
       <p>Competitive Wordle with ELO ratings. An entropy-based engine scores every guess, and an LLM explains each move. My bachelor's thesis.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
@@ -41,14 +41,14 @@ I like building stuff and solving problems. Easygoing by nature, relentless by c
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/sarmyca/hive-trainer">Hive Trainer</a></h4>
+      <h4><a href="https://github.com/marinboskovic/hive-trainer">Hive Trainer</a></h4>
       <p>Desktop app for learning the board game Hive: play against an AI, review your games and see who is winning. Built on top of Mzinga.</p>
       <p>
         <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#">
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/sarmyca/leetcode">LeetCode</a></h4>
+      <h4><a href="https://github.com/marinboskovic/leetcode">LeetCode</a></h4>
       <p>My solutions to LeetCode problems.</p>
       <p>
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">

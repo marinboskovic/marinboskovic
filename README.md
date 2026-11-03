@@ -4,7 +4,8 @@
 
 **Junior Data Analyst @ Gideon · MSc Data Science @ FER, Zagreb**
 
-I build LLM systems that find the root cause of autonomous forklift errors.
+I like figuring out why things break, then building what fixes them.<br>
+Curious by default, stubborn about the details.
 
 <a href="https://www.linkedin.com/in/marinboskovic"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
